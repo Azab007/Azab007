@@ -35,6 +35,7 @@ I am a passionate software engineer with a strong foundation in software develop
 - Operating Systems
 - Design Patterns
 - Problem Solving
+- Microservices
 - Programming Languages: JavaScript,Typescript Python, C++, 
 - Web Development: Node.js, Express.js, Flask, Django, graphql, nginx, rabbitMQ
 - Database Management: MongoDB, SQL, Redis
@@ -50,7 +51,7 @@ I am a passionate software engineer with a strong foundation in software develop
 
 ## Contact
 
-- **LinkedIn:** [Azab007](https://www.linkedin.com/in/mohamed-azab)
+- **LinkedIn:** [mohamed-azab](https://www.linkedin.com/in/mohamed-azab)
 - **Medium:** [Azab007](https://medium.com/@Mohammed_Azab)
 - **Email:** mazab322@gmail.com
 - **Phone Number:** 01111337974
