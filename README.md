@@ -52,7 +52,7 @@ I am a passionate software engineer with a strong foundation in software develop
 ## Contact
 
 - **LinkedIn:** [mohamed-azab](https://www.linkedin.com/in/mohamed-azab)
-- **Medium:** [Azab007](https://medium.com/@Mohammed_Azab)
+- **Medium:** [Mohammed_Azab](https://medium.com/@Mohammed_Azab)
 - **Email:** mazab322@gmail.com
 - **Phone Number:** 01111337974
 
