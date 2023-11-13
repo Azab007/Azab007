@@ -14,16 +14,12 @@ I am a passionate software engineer with a strong foundation in software develop
 
 ## Work Experience
 
-### Software Engineer | Part Time | MegaDev @Tanta
-**Duration:** July 2023 - Present
-- Creating and managing **Sigma**, an application designed for universities to track student attendance and absence using QR codes. My role involves developing the project's APIs.
-
 ### Software Engineer | Egyptian Armed Forces
 **Duration:** March 2023 - Present
 - Creating and upkeeping a comprehensive web application to handle all paperwork tasks, utilizing Django for the backend and HTML, CSS, and JavaScript for the frontend.
 
 ### Software Engineer | Full Time | MegaDev @Tanta
-**Duration:** August 2022 - January 2023
+**Duration:** August 2022 - Present
 - Overseeing the development and maintenance of **Phase 2 of HWAC**, a backend REST API designed for Vodafone to facilitate the approval of licenses for constructing cell towers.
 - My primary responsibility involved converting a single Excel data sheet containing all the complex cell tower components data into multiple Excel sheets used by Phase 1 APIs. Remarkably, I completed Phase 2 well ahead of schedule, finishing approximately **two weeks earlier than anticipated**.
 - Developing and maintaining **MedicineBorsa**, a web application tasked with comparing medicine prices across various inventories and presenting them to users or other inventories for potential purchase.
