@@ -26,18 +26,26 @@ I am a passionate software engineer with a strong foundation in software develop
 - Successfully addressed a long-standing issue that had plagued the project for over three months, involving the accurate matching of medicine names from inventories to the correct medicine names. I resolved this challenge through string matching techniques and parallelization with Apache Spark, transforming a task that previously took weeks of manual matching into approximately **30 seconds up to 2 minutes of automated matching** depending on the amount of data, with only about 1 hours required for reviewing the results.
 
 ## Skills
-
+- Node.js, Express.js, Nest.js‬
+- ‭Flask, Django, Graphql‬
+‭- JavaScript, Typescript, Python, C++‬
+‭- NoSql (MongoDB, Mongoose)‬
+‭- SQL (Prisma, Sequelize)‬
+‭- Redis, ElasticSearch‬
+‭- WebSockets‬
+‭- REST APIs‬
+‭- Docker‬
+‭- Nginx, RabbitMQ‬
+‭- Microservices‬
+‭- Jenkins (basics)‬
+‭- AWS (EC2, RDS, S3)(basics)‬
+‭- Git, Github‬
+‭- Unit Testing‬
+‭- Agile Development: Scrum‬
 - Data Structures and Algorithms
 - Operating Systems
 - Design Patterns
-- Problem Solving
 - Microservices
-- Programming Languages: JavaScript,Typescript Python, C++, 
-- Web Development: Node.js, Express.js, Flask, Django, graphql, nginx, rabbitMQ
-- Database Management: MongoDB, SQL, Redis
-- Version Control: Git
-- Agile Development: Scrum
-- Others: Linux, OOP/OOD, SDLC
 
 ## Education
 
